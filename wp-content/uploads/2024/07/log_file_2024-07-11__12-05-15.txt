@@ -1,0 +1,14 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost/shopees
+Data file = C:\xampp\htdocs\shopees/wp-content/themes/shopees//demo-data/content.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---ocdi/after_import---
+

@@ -1,0 +1,18 @@
+
+---Downloaded files---
+The import files for: Shopees Demo were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://localhost/shopees
+Data file = C:\xampp\htdocs\shopees/wp-content/themes/shopees/demo-data/content.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+adforest_theme -> C:\xampp\htdocs\shopees/wp-content/themes/shopees/demo-data/theme-options.json 
+
+
+---Importing Redux settings---
+The Redux option name: adforest_theme, was not found in this WP site, so it was not imported!
+
+---ocdi/after_import---
+
